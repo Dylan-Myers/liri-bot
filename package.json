@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dylan-Myers/liri-bot"
+    "url": "git + https://github.com/Dylan-Myers/liri-bot"
   },
   "keywords": [
     "movies",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/Dylan-Myers/liri-bot"
   },
-  "homepage": "https://github.com/Dylan-Myers/liri-bot/blob/master/README.md",
+  "homepage": "https://github.com/Dylan-Myers/liri-bot#README.md",
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
