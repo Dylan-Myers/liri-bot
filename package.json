@@ -1,0 +1,38 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dylan-Myers/liri-bot"
+  },
+  "keywords": [
+    "movies",
+    "songs",
+    "spotify",
+    "bands",
+    "tours",
+    "concerts",
+    "omdb",
+    "bot",
+    "liri"
+  ],
+  "author": "Dylan Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dylan-Myers/liri-bot"
+  },
+  "homepage": "https://github.com/Dylan-Myers/liri-bot/blob/master/README.md",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "keys": "^0.1.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "spotify": "^0.3.0"
+  }
+}
